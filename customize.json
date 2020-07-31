@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "Bhagi",
+=======
+  "name": "Bhagii",
+>>>>>>> e2ecf88bea6ba84ac36fd739de43527240e5c3d0
   "greetingText": "If I did anything right in my life , it was when I gave my heart to you!",
   "wishText": "May the blessings always be with you! ;)",
   "imagePath": "img/photo.png"
